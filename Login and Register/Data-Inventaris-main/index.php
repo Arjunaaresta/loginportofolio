@@ -1,13 +1,4 @@
 <?php
-session_start();
-include_once('connection.php');
-
-// if(isset($_SESSION['name']) && isset($_SESSION['username'] )){
-
-// }
-$_SESSION['name'];
-$_SESSION['username'];
-
 //Koneksi Database
 $server = "localhost";
 $user = "root";
